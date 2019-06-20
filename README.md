@@ -1,5 +1,8 @@
 # `Octokit.contents` bug reproduction
 
+Source code:
+https://github.com/octokit/octokit.rb/blob/v4.14.0/lib/octokit/client/contents.rb#L32
+
 ## Setup
 
 ```shell
